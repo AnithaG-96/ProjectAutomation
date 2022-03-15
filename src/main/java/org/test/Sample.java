@@ -15,7 +15,9 @@ System.out.println("Test A1");
 		System.out.println("Test A3");
 			}
 			
-		
+		private void test4() {
+System.out.println("Test A4");
+		}
 	
 	
 	
@@ -24,7 +26,7 @@ public static void main(String[] args) {
   s.test1();
   s.test2();
   s.test3();
-	
+  s.test4();
 	
 	
 	
